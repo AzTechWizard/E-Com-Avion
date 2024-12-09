@@ -36,7 +36,7 @@ const BrandDiff = () => {
                     <ul className="flex flex-col gap-4">
                         <li className="text-3xl"><BsCreditCard /></li>
                         <li><h3 className="text-2xl">Unbeatable prices</h3></li>
-                        <li><p className="text-xl">For our materials and quality you won't find better prices anywhere</p></li>
+                        <li><p className="text-xl">For our materials and quality you would not find better prices anywhere</p></li>
                     </ul>
                 </div>
             </div>
