@@ -3,7 +3,6 @@ import localFont from "next/font/local";
 import "./globals.css";
 import { IoSearch } from "react-icons/io5";
 import Link from "next/link";
-import Image from "next/image";
 import { IoCartOutline } from "react-icons/io5";
 import { CgProfile } from "react-icons/cg";
 import { FaLinkedin } from "react-icons/fa";
