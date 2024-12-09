@@ -88,7 +88,7 @@ export default function RootLayout({
 
               <div><h2 className="text-4xl ">Join the club and get the benefits</h2></div>
 
-              <div className="mx-64"><p className="text-2xl text-center">Sign up for our newsletter and receive exclusive offers on new ranges, sales, pop up stores and more</p></div>
+              <div className="mx-64"><p className="text-xl text-center">Sign up for our newsletter and receive exclusive offers on new ranges, sales, pop up stores and more</p></div>
 
               <div>
                 <ul className="flex gap-x-4">
